@@ -1,5 +1,5 @@
 # InfectionCounter
-ImageJ plugin for automated quantification of in vitro virus replication by fluorescence microscopy
+ImageJ plugin for automated quantification of in vitro virus replication by fluorescence microscopy.
 
 Developed by Joe Grove, 2016
 
