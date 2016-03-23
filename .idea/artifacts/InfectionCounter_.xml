@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="InfectionCounter_">
+    <output-path>/Applications/Fiji.app/plugins</output-path>
+    <root id="archive" name="InfectionCounter_.jar">
+      <element id="module-output" name="InfectionCounter" />
+    </root>
+  </artifact>
+</component>

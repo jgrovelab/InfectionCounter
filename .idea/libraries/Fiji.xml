@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Fiji">
+    <CLASSES>
+      <root url="file:///Applications/Fiji.app/plugins" />
+      <root url="file:///Applications/Fiji.app/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///Applications/Fiji.app/jars" />
+    </SOURCES>
+    <jarDirectory url="file:///Applications/Fiji.app/jars" recursive="false" />
+    <jarDirectory url="file:///Applications/Fiji.app/plugins" recursive="false" />
+    <jarDirectory url="file:///Applications/Fiji.app/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
